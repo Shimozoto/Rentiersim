@@ -1,0 +1,11 @@
+T:\Schule\TDIProg\Rentiersim\Rentiersim\bin\Debug\Rentiersim.exe.config
+T:\Schule\TDIProg\Rentiersim\Rentiersim\bin\Debug\Rentiersim.exe
+T:\Schule\TDIProg\Rentiersim\Rentiersim\bin\Debug\Rentiersim.pdb
+T:\Schule\TDIProg\Rentiersim\Rentiersim\obj\Debug\Rentiersim.csproj.AssemblyReference.cache
+T:\Schule\TDIProg\Rentiersim\Rentiersim\obj\Debug\Rentiersim.csproj.SuggestedBindingRedirects.cache
+T:\Schule\TDIProg\Rentiersim\Rentiersim\obj\Debug\Rentiersim.Form1.resources
+T:\Schule\TDIProg\Rentiersim\Rentiersim\obj\Debug\Rentiersim.Properties.Resources.resources
+T:\Schule\TDIProg\Rentiersim\Rentiersim\obj\Debug\Rentiersim.csproj.GenerateResource.cache
+T:\Schule\TDIProg\Rentiersim\Rentiersim\obj\Debug\Rentiersim.csproj.CoreCompileInputs.cache
+T:\Schule\TDIProg\Rentiersim\Rentiersim\obj\Debug\Rentiersim.exe
+T:\Schule\TDIProg\Rentiersim\Rentiersim\obj\Debug\Rentiersim.pdb
